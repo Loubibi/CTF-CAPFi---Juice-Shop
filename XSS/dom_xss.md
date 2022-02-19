@@ -1,5 +1,3 @@
-Vous trouverez ici les solutions pour les challenges XSS :)
-
 ## DOM XSS
 ### Challenge: Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
 
