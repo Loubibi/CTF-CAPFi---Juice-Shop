@@ -1,7 +1,7 @@
 ## Confidential Document
 #### Défi : Accéder à un document confidentiel.
 
-* Naviguez vers `About Us` et observez un lien url `http://192.168.247.136:3000/ftp/legal.md`. En cliquant dessus, vous accédez à un fichier texte mais ce qui est intéressant, c'est le répertoire `ftp`, qui semble contenir des fichiers comme le ferait un serveur ftp.
+* Naviguez vers `About Us` et observez un lien url `http://@IP:3000/ftp/legal.md`. En cliquant dessus, vous accédez à un fichier texte mais ce qui est intéressant, c'est le répertoire `ftp`, qui semble contenir des fichiers comme le ferait un serveur ftp.
 
 * Naviguez vers `http://192.168.247.136:3000/ftp` et vous remarquerez quelques fichiers intéressants.
 
