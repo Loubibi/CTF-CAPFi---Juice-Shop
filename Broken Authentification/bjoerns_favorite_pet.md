@@ -1,6 +1,5 @@
 ## Bjoern's Favorite Pet
 ### Réinitialiser le mot de passe du compte OWASP de Bjoern via le mécanisme Mot de passe oublié avec la réponse originale à sa question de sécurité.
-### Catégorie : Authentification cassée
 
 A partir du défi précédent, après avoir piraté le panneau `/administration` en utilisant l'utilisateur admin. Nous avons une liste des emails de login de Bjoern utilisés pour le magasin de jus. En utilisant la fonction d'oubli du mot de passe, il y a un login email particulier `bjoern@owasp.org` qui pose la question `Nom de votre animal préféré``. 
 
