@@ -1,6 +1,8 @@
 ## DOM XSS
-### Challenge: Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
+### Défi : Effectuez une attaque DOM XSS avec <iframe src="javascript:alert(`xss`)">.
 
-Enter ``<iframe src="javascript:alert(`xss`)">`` at search box.
+Saisissez <iframe src="javascript:alert(`xss`)"> dans le champ de recherche.
 
-_Note: There are many ways to weaponize XSS attack. One common example would be to use `alert(document.cookie)` to steal client's session cookie or perform CSRF attack (using victim to execute malicious code/commands on your behalf)_ 
+Remarque : il existe de nombreuses façons d'utiliser une attaque XSS. Un exemple courant est l'utilisation de alert(document.cookie) pour voler le cookie de session du client ou réaliser une attaque CSRF (en utilisant la victime pour exécuter un code/commande malveillant en votre nom).
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
