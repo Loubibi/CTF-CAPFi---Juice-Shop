@@ -8,7 +8,7 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Injection
 [Solutions](../Injection/login_admin.md)
 ### Broken authentification
-[Solutions](../Broken Anti-Automation/broken_anti_automation_solutions.md)
+[Solutions](../Broken Authentification/broken_authentification_solutions.md)
 ### Sensitive Data exposure
 [Solutions](../Sensitive Data exposure/sensitive_data_solutions.md)
 ### Improper Input Validation
@@ -20,13 +20,13 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Security Through Obscurity
 [Solutions](../Security Through Obscurity/security_through_obscurity.md)
 ### Unvalidated Redirects
-[Solutions]
+[Solutions](../Unvalidated Redirects/unvalidated_redirects_solutions.md)
 ### Broken Anti-Automation
-[Solutions]
+[Solutions](../Broken Anti-Automation/broken_anti_automation_solutions.md)
 ### Cryptography issues
-[Solutions]
+[Solutions](../Cryptography issues/cryptography_issues_solutions.md)
 ### Miscellaneous
-[Solutions]
+[Solutions](../Miscellaneous/miscellaneous_solutions.md)
 ### Vulnerable components
 [Solutions]
 ### Autres
