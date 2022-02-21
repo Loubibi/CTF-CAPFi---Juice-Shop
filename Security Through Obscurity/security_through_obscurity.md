@@ -6,7 +6,7 @@
 2. En déplaçant le curseur de votre souris sur chaque paragraphe, vous ferez apparaître un effet de feu sur certains mots ou parties de phrases.
    apparaître sur certains mots ou parties de phrases.
 
-   ! [Section chaude de la politique de confidentialité](![image](https://user-images.githubusercontent.com/37535317/155036728-4f6cdaa9-9b34-4c8d-b74a-3195f4f8531b.png))
+   [image](https://user-images.githubusercontent.com/37535317/155036728-4f6cdaa9-9b34-4c8d-b74a-3195f4f8531b.png))
 3. Inspectez le HTML dans votre navigateur et notez tout le texte à l'intérieur des balises `<span
    class="hot">`, qui sont `http://localhost`, `Nous pouvons également`,
    `s'instruire`, `refuser tout`, `raisonnablement nécessaire` et
