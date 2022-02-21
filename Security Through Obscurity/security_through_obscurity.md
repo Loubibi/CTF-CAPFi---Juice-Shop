@@ -15,8 +15,3 @@
    <http://@IP:3000/we/may/also/instruct/you/to/refuse/all/reasonably/necessary/responsibility>
    (en ajoutant le port du serveur si nécessaire) et résolvez le défi en le
    le visitant.
-
-Il semble que l'équipe de Juice Shop n'ait pas suffisamment apprécié votre effort de lecture pour vous fournir une gratification, même minime.
-efforts de lecture pour vous donner ne serait-ce qu'une petite satisfaction, car vous ne recevrez
-seulement une `404 Error : ENOENT : no such file or directory, stat
-'/app/frontend/dist/frontend/assets/private/thank-you.jpg'`.
