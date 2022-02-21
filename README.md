@@ -8,7 +8,7 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Injection
 [Solutions](../Injection/login_admin.md)
 ### Broken authentification
-[Solutions](../Broken_Authentification/broken_authentification_solutions.md)
+[Solutions](../Broken Authentification/broken_authentification_solutions.md)
 ### Sensitive Data exposure
 [Solutions](../Sensitive Data exposure/sensitive_data_solutions.md)
 ### Improper Input Validation
