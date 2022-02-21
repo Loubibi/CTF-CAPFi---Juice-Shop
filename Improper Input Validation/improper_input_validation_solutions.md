@@ -10,4 +10,4 @@ Des tests plus poussés avec l'api de repos révéleront qu'il y a un paramètre
 Envoyez une autre requête `POST /api/Users/` avec les paramètres suivants 
 `{"nom d'utilisateur" : "adminhacker", "email" : "admin@hack.com", "password" : "admin", "role" : "admin"}``
 
-![Uploading image.png…]()
+![Uploading image2.png…]()
