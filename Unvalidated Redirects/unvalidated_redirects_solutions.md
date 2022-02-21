@@ -14,5 +14,5 @@
 ![image](https://user-images.githubusercontent.com/37535317/155037088-bc6aee37-3cd0-409f-b6c6-a610193070cc.png)
 
 6. Ouvrez l'une de ces trois fonctions, par exemple
-   <http://localhost:3000/redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm>
+   <http://@IP:3000/redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm>
    pour résoudre le défi.
