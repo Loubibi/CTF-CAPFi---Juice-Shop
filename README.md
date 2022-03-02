@@ -6,27 +6,27 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### XSS
 [Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/XSS/dom_xss.md)
 ### Injection
-[Solutions](../Injection/login_admin.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Injection/login_admin.md)
 ### Broken authentification
-[Solutions](../Broken Authentification/broken_authentification_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Broken%20Authentification/bjoerns_favorite_pet.md)
 ### Sensitive Data exposure
-[Solutions](../Sensitive Data exposure/sensitive_data_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Sensitive%20Data%20exposure/sensitive_data_solutions.md)
 ### Improper Input Validation
-[Solutions](../Improper Input Validation/improper_input_validation_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Improper%20Input%20Validation/improper_input_validation_solutions.md)
 ### Broken access Control
-[Solutions](../Broken access Control/broken_access_control_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Broken%20access%20Control/broken_access_control_solutions.md)
 ### Security Misconfiguration
-[Solutions](../Security Misconfiguration/security_misconfiguration_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Security%20Misconfiguration)
 ### Security Through Obscurity
-[Solutions](../Security Through Obscurity/security_through_obscurity.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Security%20Through%20Obscurity)
 ### Unvalidated Redirects
-[Solutions](../Unvalidated Redirects/unvalidated_redirects_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Unvalidated%20Redirects/unvalidated_redirects_solutions.md)
 ### Broken Anti-Automation
-[Solutions](../Broken Anti-Automation/broken_anti_automation_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Broken%20Anti-Automation/broken_anti_automation_solutions.md)
 ### Cryptography issues
-[Solutions](../Cryptography issues/cryptography_issues_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Cryptography%20issues/cryptography_issues_solutions.md)
 ### Miscellaneous
-[Solutions](../Miscellaneous/miscellaneous_solutions.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Miscellaneous)
 ### Vulnerable components
 [Solutions]
 ### Autres
