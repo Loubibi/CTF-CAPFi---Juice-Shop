@@ -16,9 +16,9 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Broken access Control
 [Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Broken%20access%20Control/broken_access_control_solutions.md)
 ### Security Misconfiguration
-[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Security%20Misconfiguration)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Security%20Misconfiguration/security_misconfiguration_solutions.md)
 ### Security Through Obscurity
-[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Security%20Through%20Obscurity)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Security%20Through%20Obscurity/security_through_obscurity.md)
 ### Unvalidated Redirects
 [Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Unvalidated%20Redirects/unvalidated_redirects_solutions.md)
 ### Broken Anti-Automation
@@ -26,7 +26,7 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Cryptography issues
 [Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Cryptography%20issues/cryptography_issues_solutions.md)
 ### Miscellaneous
-[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Miscellaneous)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Miscellaneous/miscellaneous_solutions.md)
 ### Vulnerable components
 [Solutions]
 ### Autres
