@@ -4,9 +4,9 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ## Solutions
 
 ### XSS
-[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/XSS/dom_xss.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/XSS/)
 ### Injection
-[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Injection/login_admin.md)
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Injection/)
 ### Broken authentification
 [Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/blob/main/Broken%20Authentification/bjoerns_favorite_pet.md)
 ### Sensitive Data exposure
