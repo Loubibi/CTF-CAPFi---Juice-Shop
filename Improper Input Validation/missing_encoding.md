@@ -21,4 +21,4 @@ vous obtiendrez
 
 Nous connaissons maintenant le chemin absolu de l'image, naviguez vers `http://192.168.247.136:3000/assets/public/images/uploads/%F0%9F%98%BC-%23zatschi-%23whoneedsfourlegs-1572600969477.jpg` pour compléter ce défi
 
-Note : Nous pouvons observer les requêtes du client au serveur en utilisant les outils de développement de Chrome `Network`. Si nous filtrons les requêtes enregistrées en cliquant sur `img`, nous pouvons voir que l'une des url d'image demandée était `http://192.168.247.136:3000/assets/public/images/uploads/%F0%9F%98%BC-`, qui est en fait l'url "semi codée" de l'image du chat. Il s'avère que le caractère `#` n'a pas été encodé et que l'image n'a pas été trouvée.
+Note : Nous pouvons observer les requêtes du client au serveur en utilisant les outils de développement de Chrome `Network`. Si nous filtrons les requêtes enregistrées en cliquant sur `img`, nous pouvons voir que l'une des url d'image demandée était `http://@IP:3000/assets/public/images/uploads/%F0%9F%98%BC-`, qui est en fait l'url "semi codée" de l'image du chat. Il s'avère que le caractère `#` n'a pas été encodé et que l'image n'a pas été trouvée.
