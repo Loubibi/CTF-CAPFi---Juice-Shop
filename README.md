@@ -30,4 +30,4 @@ Solutions des challenges pour le CTF CAPFi - Avril 2022
 ### Vulnerable components
 [Solutions]
 ### Autres
-[Solutions]
+[Solutions](https://github.com/Loubibi/CTF-CAPFi---Juice-Shop/tree/main/Autres)
